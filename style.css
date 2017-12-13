@@ -1,0 +1,59 @@
+
+
+.Table{
+    background-color:wheat;
+    border: 5px solid darkred;
+    margin-bottom: 1px;
+    padding: 20px;
+    width:150px;
+    height: 75px;
+}
+#table{float:right;}
+
+td {
+  text-align: center;
+  vertical-align: middle;
+}
+
+a:hover{
+	color: blue;
+} 
+
+a:visited{
+	color:purple;
+}
+
+a:link{
+	color: red;
+}
+
+a:active{
+	color: green;
+}
+
+
+.list1{
+	float: left;
+	width:35%;
+}
+
+.list2{float: right;
+	width:35%;
+}
+p.normal{
+	font-weight: normal
+}
+
+p {
+    font-family: "Times New Roman", Times, serif;
+}
+
+body {background-color:tan;}
+p { text-align: center }
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+<iframe style="float:right">
